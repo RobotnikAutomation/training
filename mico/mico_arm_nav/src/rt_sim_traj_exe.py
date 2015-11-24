@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-import roslib; roslib.load_manifest('robotnik_trajectory_control')
+import roslib; 
+#roslib.load_manifest('robotnik_trajectory_control')
 import rospy
 import actionlib
 import wx
